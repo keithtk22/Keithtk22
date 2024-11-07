@@ -14,7 +14,7 @@ My journey in programming has led me to develop a passion for cybersecurity, and
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Wazuh Endpoint Security                       | <a href= https://github.com/keithtk22/Wazuh-Investigation/tree/main>Wazuh Lab</a>|
-| Network Monitoring and Attack Detection       | <a href="https://google.com">Detection Lab</a>|
+| Network Monitoring and Attack Detection       | Wireshark Lab     |
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response SPLUNK                      | SOC Automation Lab|
 | WIreshark & TSHARK Challenge                  | SOC Automation Lab|
@@ -51,5 +51,5 @@ My journey in programming has led me to develop a passion for cybersecurity, and
 </div>
 
 ## Projects
-- Detection Lab
+- Wazuh Monday Monitor
 - SOC Automation Project
