@@ -2,7 +2,7 @@
 
 <a href=https://www.linkedin.com/in/k-k-a65971156/><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Self Starter who thrives in collaborative settings and consistently contributes to positive team outcomes. Graduating from the University of Central florida Cyber secruity Bootcamp, Ive obtained my compTIA security + and am now Working towards my compTIA CYSA +.
+I am a Self Starter who thrives in collaborative settings and consistently contributes to positive team outcomes. Graduating from the University of Central florida Cyber secruity Bootcamp, Ive obtained my compTIA security + and now am working towards my compTIA CYSA +.
 
 ## Objective
 
