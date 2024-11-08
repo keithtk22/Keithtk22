@@ -17,7 +17,7 @@ My journey in programming has led me to develop a passion for cybersecurity, and
 | Network Monitoring and Attack Detection       | Wireshark Lab     |
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response SPLUNK                      | SOC Automation Lab|
-| WIreshark & TSHARK Challenge                  | SOC Automation Lab|
+| WIreshark & TSHARK Challenge                  | <a href= https://github.com/keithtk22/Wireshark-Phishing-Investigation/blob/main/README.md.>Wireshark Lab</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
