@@ -11,15 +11,14 @@ Graduating from the University of Central Florida Cyber secruity Bootcamp, Ive o
 My journey in programming has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Wazuh Endpoint Security                       | <a href= https://github.com/keithtk22/Wazuh-Investigation/tree/main>Wazuh Lab</a>|
+| Wazuh SIEM Endpoint Security                  | <a href= https://github.com/keithtk22/Wazuh-Investigation/tree/main>Wazuh Lab</a>|
 | Network Monitoring and Attack Detection       | Wireshark Lab     |
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response SPLUNK                      | SOC Automation Lab|
-| WIreshark & TSHARK Phishing Challenge         | <a href= https://github.com/keithtk22/Wireshark-Phishing-Investigation/blob/main>Wireshark Lab</a>|
+| WIreshark & TSHARK Phishing investigation     | <a href= https://github.com/keithtk22/Wireshark-Phishing-Investigation/blob/main>Wireshark Lab</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
