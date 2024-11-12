@@ -46,6 +46,12 @@ My journey in programming has led me to develop a passion for cybersecurity, and
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### Coding Languages
+<div>
+  <img src="https://img.shields.io/badge/-Python-306998?&style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-000000?&style=for-the-badge&logo=MySQL&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
