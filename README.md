@@ -4,7 +4,7 @@
 
 I am a Self Starter who thrives in collaborative settings and consistently contributes to positive team outcomes.
 
-Graduating from the University of Central Florida Cyber secruity Bootcamp, Ive obtained my compTIA Security + and now am working towards my compTIA CYSA +.
+Graduating from the University of Central Florida Cyber secruity Bootcamp, Ive obtained my compTIA Security + and now am pursuing my compTIA CYSA +.
 
 ## Objective
 
