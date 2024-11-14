@@ -68,4 +68,4 @@ My journey in programming has led me to develop a passion for cybersecurity, and
 - Autopsy investigation
 - Zeek rules
 - Python automation
-- 
+
