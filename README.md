@@ -36,6 +36,9 @@ My journey in programming has led me to develop a passion for cybersecurity, and
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-3D87C1?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Autopsy-800080?&style=for-the-badge&logo=Autopsy&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysinternals-FF7F00?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+
 </div>
 
 ### SIEM
